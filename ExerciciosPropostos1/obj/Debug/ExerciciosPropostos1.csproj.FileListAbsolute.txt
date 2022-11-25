@@ -1,0 +1,7 @@
+C:\Users\gustavo.tanamati\source\repos\ExerciciosPropostos1\ExerciciosPropostos1\bin\Debug\ExerciciosPropostos1.exe.config
+C:\Users\gustavo.tanamati\source\repos\ExerciciosPropostos1\ExerciciosPropostos1\bin\Debug\ExerciciosPropostos1.exe
+C:\Users\gustavo.tanamati\source\repos\ExerciciosPropostos1\ExerciciosPropostos1\bin\Debug\ExerciciosPropostos1.pdb
+C:\Users\gustavo.tanamati\source\repos\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\ExerciciosPropostos1.csprojAssemblyReference.cache
+C:\Users\gustavo.tanamati\source\repos\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\ExerciciosPropostos1.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.tanamati\source\repos\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\ExerciciosPropostos1.exe
+C:\Users\gustavo.tanamati\source\repos\ExerciciosPropostos1\ExerciciosPropostos1\obj\Debug\ExerciciosPropostos1.pdb
